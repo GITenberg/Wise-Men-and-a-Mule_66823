@@ -1,0 +1,30 @@
+_repo: Wise-Men-and-a-Mule_66823
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tuttle, W. C. (Wilbur C.)
+    aliases:
+    - Tuttle, Wilbur Coleman
+    - Tuttle, Wilbur C.
+    birthdate: 1883
+    deathdate: 1969
+    gutenberg_agent_id: '52836'
+    url: http://www.gutenberg.org/2009/agents/52836
+    wikipedia: https://en.wikipedia.org/wiki/W._C._Tuttle
+description: ''
+gutenberg_issued: '2021-11-26'
+identifiers:
+  gutenberg: '66823'
+language: en
+pgterms:marc905: 20210829010236tuttle
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :The Ridgway Company,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Wise Men and a Mule
+url: http://www.gutenberg.org/ebooks/66823
